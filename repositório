@@ -1,0 +1,3 @@
+Variáveis são espaços na memória do computador, identificados por um nome, usados para armazenar dados (como números ou textos) que podem ser alterados durante a execução de um programa. Os tipos de dados definem que tipo de informação (ex: inteiro, real, booleano, texto) a variável pode guardar, organizando o processamento.
+Repositórios remotos são versões do seu projeto que fica em servidores externos (como GitHub e GitLab), servindo para backup, colaboração em equipe e compartilhamento de código.
+Frontend é a parte visual e interativa de um site ou apps com a qual o usuário interage diretamente, incluindo layouts, botões, textos e animações
